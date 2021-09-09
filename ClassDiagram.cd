@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAVLTree&lt;TYPE&gt;" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAABEABBAIAgEAAAA4ABAAAEAAIAAAAUCICABAAAAA=</HashCode>
+      <FileName>CAVLTree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileError" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileReadWrite" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABQAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileNullPoint" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileOutofMemory" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileInvalidPath" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFile" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAEAAAAACAAAAAAgAAAAAAQAAAAAAAGIABA=</HashCode>
+      <FileName>CFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyStack&lt;TYPE&gt;" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICAAAAAAAAAAAAAAAIAAAAAAACKAAAAAAAAAIAACAA=</HashCode>
+      <FileName>CMyStack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CString" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAQAIAAJAEDAAAgQAADQBCAgMAAQAQJAhmABAwIAQ=</HashCode>
+      <FileName>CString.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyList&lt;TYPE&gt;" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oQQAEEACAAAAgIAgAAIAAAAQCAACAAAgAAAiAIBgAAA=</HashCode>
+      <FileName>MyList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CManage&lt;T, T2, TYPE, TYPE2&gt;" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAIAEAAAAAAAgAAAQAAAQAAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileAct&lt;T, T2, TYPE&gt;" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAABAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSelRecord&lt;T, T2, TYPE, TYPE2, TYPE3&gt;" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAgIAAAACAAABAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="CStudent" Collapsed="true">
+    <Position X="16.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CClass">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CRecord" Collapsed="true">
+    <Position X="14.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAABAAABA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_STSTUDENTSAVEINFO" Collapsed="true">
+    <Position X="3.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_STCLASSSAVEINFO" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CStudentPair&lt;KEY, VALUE&gt;" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAIAAAAAAAAAAQAAAAQAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="STSTUDENTSAVEINFO" Collapsed="true">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PSTSTUDENTSAVEINFO" Collapsed="true">
+    <Position X="3.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="STCLASSSAVEINFO" Collapsed="true">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PSTCLASSSAVEINFO" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="STUIDPair" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="CLSIDPair" Collapsed="true">
+    <Position X="2" Y="7" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="YaHei Consolas Hybrid" Size="9.75" />
+</ClassDiagram>
